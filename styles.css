@@ -1,0 +1,36 @@
+
+.index {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("background3.png");
+  color: white;
+}
+
+.team {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("background2.png");
+  color: white;
+}
+
+.signup {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("background4.png");
+  color: white;
+}
+
+.secondary {
+  text-align: center;
+}
+
+.navbar {
+  background-color: white;
+}
+
+small {
+  font-style: italic;
+}
